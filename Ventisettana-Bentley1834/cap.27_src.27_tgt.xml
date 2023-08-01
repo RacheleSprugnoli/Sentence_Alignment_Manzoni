@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<linkGrp fromDoc="cap.27_src.xml" toDoc="cap.27_tgt.xml">
+<link status="man" type="1-1" xtargets="1:1;1:1"/>
+<link status="man" type="0-1" xtargets=";1:2"/>
+<link status="man" type="0-1" xtargets=";1:3"/>
+<link status="man" type="1-2" xtargets="1:2;1:4 1:5"/>
+<link status="man" type="2-1" xtargets="1:3 1:4;1:6"/>
+<link status="man" type="2-1" xtargets="1:5 1:6;1:7"/>
+<link status="man" type="1-1" xtargets="1:7;1:8"/>
+<link status="man" type="1-1" xtargets="1:8;1:9"/>
+<link status="man" type="1-1" xtargets="1:9;1:10"/>
+<link status="man" type="1-1" xtargets="1:10;1:11"/>
+<link status="man" type="1-1" xtargets="1:11;1:12"/>
+<link status="man" type="1-2" xtargets="1:12;1:13 1:14"/>
+<link status="man" type="1-1" xtargets="1:13;1:15"/>
+<link status="man" type="1-1" xtargets="1:14;1:16"/>
+<link status="man" type="1-1" xtargets="1:15;1:17"/>
+<link status="man" type="0-1" xtargets=";1:18"/>
+<link status="man" type="1-1" xtargets="1:16;1:19"/>
+<link status="man" type="1-1" xtargets="1:17;1:20"/>
+<link status="man" type="1-1" xtargets="1:18;1:21"/>
+<link status="man" type="1-1" xtargets="1:19;1:22"/>
+<link status="man" type="1-1" xtargets="1:20;1:23"/>
+<link status="man" type="2-1" xtargets="1:21 1:22;1:24"/>
+<link status="man" type="1-1" xtargets="1:23;1:25"/>
+<link status="man" type="1-1" xtargets="1:24;1:26"/>
+<link status="man" type="2-1" xtargets="1:25 1:26;1:27"/>
+<link status="man" type="1-2" xtargets="1:27;1:28 1:29"/>
+<link status="man" type="1-1" xtargets="1:28;1:30"/>
+<link status="man" type="1-1" xtargets="1:29;1:31"/>
+<link status="man" type="1-1" xtargets="1:30;1:32"/>
+<link status="man" type="2-1" xtargets="1:31 1:32;1:33"/>
+<link status="man" type="1-1" xtargets="1:33;1:34"/>
+<link status="man" type="1-1" xtargets="1:34;1:35"/>
+<link status="man" type="1-1" xtargets="1:35;1:36"/>
+<link status="man" type="1-2" xtargets="1:36;1:37 1:38"/>
+<link status="man" type="1-1" xtargets="1:37;1:39"/>
+<link status="man" type="2-1" xtargets="1:38 1:39;1:40"/>
+<link status="man" type="3-1" xtargets="1:40 1:41 1:42;1:41"/>
+<link status="man" type="1-1" xtargets="1:43;1:42"/>
+<link status="man" type="1-1" xtargets="1:44;1:43"/>
+<link status="man" type="2-1" xtargets="1:45 1:46;1:44"/>
+<link status="man" type="0-1" xtargets=";1:45"/>
+<link status="man" type="0-1" xtargets=";1:46"/>
+<link status="man" type="1-1" xtargets="1:47;1:47"/>
+<link status="man" type="1-1" xtargets="1:48;1:48"/>
+<link status="man" type="1-1" xtargets="1:49;1:49"/>
+<link status="man" type="1-2" xtargets="1:50;1:50 1:51"/>
+<link status="man" type="1-1" xtargets="1:51;1:52"/>
+<link status="man" type="1-1" xtargets="1:52;1:53"/>
+<link status="man" type="1-1" xtargets="1:53;1:54"/>
+<link status="man" type="1-1" xtargets="1:54;1:55"/>
+<link status="man" type="1-1" xtargets="1:55;1:56"/>
+<link status="man" type="1-1" xtargets="1:56;1:57"/>
+<link status="man" type="1-1" xtargets="1:57;1:58"/>
+<link status="man" type="0-1" xtargets=";1:59"/>
+<link status="man" type="1-1" xtargets="1:58;1:60"/>
+<link status="man" type="1-1" xtargets="1:59;1:61"/>
+<link status="man" type="1-2" xtargets="1:60;1:62 1:63"/>
+<link status="man" type="1-2" xtargets="1:61;1:64 1:65"/>
+<link status="man" type="0-1" xtargets=";1:66"/>
+<link status="man" type="0-1" xtargets=";1:67"/>
+<link status="man" type="1-3" xtargets="1:62;1:68 1:69 1:70"/>
+<link status="man" type="1-1" xtargets="1:63;1:71"/>
+<link status="man" type="2-1" xtargets="1:64 1:65;1:72"/>
+<link status="man" type="1-1" xtargets="1:66;1:73"/>
+<link status="man" type="1-1" xtargets="1:67;1:74"/>
+<link status="man" type="2-1" xtargets="1:68 1:69;1:75"/>
+<link status="man" type="1-1" xtargets="1:70;1:76"/>
+<link status="man" type="1-1" xtargets="1:71;1:77"/>
+<link status="man" type="1-1" xtargets="1:72;1:78"/>
+<link status="man" type="1-1" xtargets="1:73;1:79"/>
+<link status="man" type="1-1" xtargets="1:74;1:80"/>
+<link status="man" type="1-1" xtargets="1:75;1:81"/>
+<link status="man" type="1-1" xtargets="1:76;1:82"/>
+<link status="man" type="1-1" xtargets="1:77;1:83"/>
+<link status="man" type="1-1" xtargets="1:78;1:84"/>
+<link status="man" type="1-1" xtargets="1:79;1:85"/>
+<link status="man" type="1-1" xtargets="1:80;1:86"/>
+<link status="man" type="1-1" xtargets="1:81;1:87"/>
+<link status="man" type="1-1" xtargets="1:82;1:88"/>
+<link status="man" type="1-1" xtargets="1:83;1:89"/>
+<link status="man" type="0-1" xtargets=";1:90"/>
+<link status="man" type="1-1" xtargets="1:84;1:91"/>
+<link status="man" type="1-2" xtargets="1:85;1:92 1:93"/>
+<link status="man" type="1-1" xtargets="1:86;1:94"/>
+<link status="man" type="1-1" xtargets="1:87;1:95"/>
+<link status="man" type="1-1" xtargets="1:88;1:96"/>
+<link status="man" type="1-1" xtargets="1:89;1:97"/>
+<link status="man" type="1-1" xtargets="1:90;1:98"/>
+<link status="man" type="1-1" xtargets="1:91;1:99"/>
+<link status="man" type="1-1" xtargets="1:92;1:100"/>
+<link status="man" type="1-1" xtargets="1:93;1:101"/>
+<link status="man" type="1-1" xtargets="1:94;1:102"/>
+<link status="man" type="0-1" xtargets=";1:103"/>
+<link status="man" type="1-1" xtargets="1:95;1:104"/>
+<link status="man" type="3-1" xtargets="1:96 1:97 1:98;1:105"/>
+<link status="man" type="1-1" xtargets="1:99;1:106"/>
+<link status="man" type="1-1" xtargets="1:100;1:107"/>
+<link status="man" type="1-1" xtargets="1:101;1:108"/>
+<link status="man" type="1-1" xtargets="1:102;1:109"/>
+<link status="man" type="1-2" xtargets="1:103;1:110 1:111"/>
+<link status="man" type="1-1" xtargets="1:104;1:112"/>
+<link status="man" type="3-1" xtargets="1:105 1:106 1:107;1:113"/>
+<link status="man" type="1-1" xtargets="1:108;1:114"/>
+<link status="man" type="1-1" xtargets="1:109;1:115"/>
+<link status="man" type="1-1" xtargets="1:110;1:116"/>
+<link status="man" type="1-1" xtargets="1:111;1:117"/>
+<link status="man" type="0-1" xtargets=";1:118"/>
+<link status="man" type="0-1" xtargets=";1:119"/>
+<link status="man" type="0-1" xtargets=";1:120"/>
+<link status="man" type="1-1" xtargets="1:112;1:121"/>
+<link status="man" type="1-2" xtargets="1:113;1:122 1:123"/>
+<link status="man" type="1-1" xtargets="1:114;1:124"/>
+<link status="man" type="1-1" xtargets="1:115;1:125"/>
+<link status="man" type="1-1" xtargets="1:116;1:126"/>
+</linkGrp>

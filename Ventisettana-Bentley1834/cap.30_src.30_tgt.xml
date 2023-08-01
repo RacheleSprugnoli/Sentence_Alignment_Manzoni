@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<linkGrp fromDoc="cap.30_src.xml" toDoc="cap.30_tgt.xml">
+<link status="man" type="1-4" xtargets="1:1;1:1 1:2 1:3 1:4"/>
+<link status="man" type="1-1" xtargets="1:2;1:5"/>
+<link status="man" type="1-1" xtargets="1:3;1:6"/>
+<link status="man" type="1-1" xtargets="1:4;1:7"/>
+<link status="man" type="1-2" xtargets="1:5;1:8 1:9"/>
+<link status="man" type="1-2" xtargets="1:6;1:10 1:11"/>
+<link status="man" type="1-1" xtargets="1:7;1:12"/>
+<link status="man" type="1-2" xtargets="1:8;1:13 1:14"/>
+<link status="man" type="1-3" xtargets="1:9;1:15 1:16 1:17"/>
+<link status="man" type="0-1" xtargets=";1:18"/>
+<link status="man" type="1-1" xtargets="1:10;1:19"/>
+<link status="man" type="1-1" xtargets="1:11;1:20"/>
+<link status="man" type="1-1" xtargets="1:12;1:21"/>
+<link status="man" type="1-1" xtargets="1:13;1:22"/>
+<link status="man" type="1-2" xtargets="1:14;1:23 1:24"/>
+<link status="man" type="1-1" xtargets="1:15;1:25"/>
+<link status="man" type="1-1" xtargets="1:16;1:26"/>
+<link status="man" type="1-1" xtargets="1:17;1:27"/>
+<link status="man" type="1-2" xtargets="1:18;1:28 1:29"/>
+<link status="man" type="3-1" xtargets="1:19 1:20 1:21;1:30"/>
+<link status="man" type="1-1" xtargets="1:22;1:31"/>
+<link status="man" type="1-1" xtargets="1:23;1:32"/>
+<link status="man" type="1-0" xtargets="1:24;"/>
+<link status="man" type="1-1" xtargets="1:25;1:33"/>
+<link status="man" type="1-1" xtargets="1:26;1:34"/>
+<link status="man" type="1-1" xtargets="1:27;1:35"/>
+<link status="man" type="1-1" xtargets="1:28;1:36"/>
+<link status="man" type="0-1" xtargets=";1:37"/>
+<link status="man" type="1-1" xtargets="1:29;1:38"/>
+<link status="man" type="1-2" xtargets="1:30;1:39 1:40"/>
+<link status="man" type="3-1" xtargets="1:31 1:32 1:33;1:41"/>
+<link status="man" type="1-1" xtargets="1:34;1:42"/>
+<link status="man" type="1-1" xtargets="1:35;1:43"/>
+<link status="man" type="1-1" xtargets="1:36;1:44"/>
+<link status="man" type="3-1" xtargets="1:37 1:38 1:39;1:45"/>
+<link status="man" type="1-1" xtargets="1:40;1:46"/>
+<link status="man" type="1-1" xtargets="1:41;1:47"/>
+<link status="man" type="1-1" xtargets="1:42;1:48"/>
+<link status="man" type="1-1" xtargets="1:43;1:49"/>
+<link status="man" type="2-1" xtargets="1:44 1:45;1:50"/>
+<link status="man" type="1-1" xtargets="1:46;1:51"/>
+<link status="man" type="2-1" xtargets="1:47 1:48;1:52"/>
+<link status="man" type="1-1" xtargets="1:49;1:53"/>
+<link status="man" type="1-1" xtargets="1:50;1:54"/>
+<link status="man" type="1-1" xtargets="1:51;1:55"/>
+<link status="man" type="1-1" xtargets="1:52;1:56"/>
+<link status="man" type="1-1" xtargets="1:53;1:57"/>
+<link status="man" type="0-1" xtargets=";1:58"/>
+<link status="man" type="3-1" xtargets="1:54 1:55 1:56;1:59"/>
+<link status="man" type="2-1" xtargets="1:57 1:58;1:60"/>
+<link status="man" type="1-1" xtargets="1:59;1:61"/>
+<link status="man" type="1-1" xtargets="1:60;1:62"/>
+<link status="man" type="1-1" xtargets="1:61;1:63"/>
+<link status="man" type="1-1" xtargets="1:62;1:64"/>
+<link status="man" type="1-1" xtargets="1:63;1:65"/>
+<link status="man" type="2-1" xtargets="1:64 1:65;1:66"/>
+<link status="man" type="1-1" xtargets="1:66;1:67"/>
+<link status="man" type="1-2" xtargets="1:67;1:68 1:69"/>
+<link status="man" type="1-1" xtargets="1:68;1:70"/>
+<link status="man" type="1-1" xtargets="1:69;1:71"/>
+<link status="man" type="1-1" xtargets="1:70;1:72"/>
+<link status="man" type="1-1" xtargets="1:71;1:73"/>
+<link status="man" type="1-1" xtargets="1:72;1:74"/>
+<link status="man" type="1-1" xtargets="1:73;1:75"/>
+<link status="man" type="2-1" xtargets="1:74 1:75;1:76"/>
+<link status="man" type="1-1" xtargets="1:76;1:77"/>
+<link status="man" type="1-1" xtargets="1:77;1:78"/>
+<link status="man" type="1-1" xtargets="1:78;1:79"/>
+<link status="man" type="1-1" xtargets="1:79;1:80"/>
+<link status="man" type="1-1" xtargets="1:80;1:81"/>
+<link status="man" type="1-1" xtargets="1:81;1:82"/>
+<link status="man" type="1-1" xtargets="1:82;1:83"/>
+<link status="man" type="1-1" xtargets="1:83;1:84"/>
+<link status="man" type="2-1" xtargets="1:84 1:85;1:85"/>
+<link status="man" type="1-1" xtargets="1:86;1:86"/>
+<link status="man" type="2-1" xtargets="1:87 1:88;1:87"/>
+<link status="man" type="1-1" xtargets="1:89;1:88"/>
+<link status="man" type="1-1" xtargets="1:90;1:89"/>
+<link status="man" type="1-1" xtargets="1:91;1:90"/>
+<link status="man" type="1-2" xtargets="1:92;1:91 1:92"/>
+<link status="man" type="1-1" xtargets="1:93;1:93"/>
+<link status="man" type="1-1" xtargets="1:94;1:94"/>
+<link status="man" type="1-1" xtargets="1:95;1:95"/>
+<link status="man" type="1-4" xtargets="1:96;1:96 1:97 1:98 1:99"/>
+<link status="man" type="0-1" xtargets=";1:100"/>
+<link status="man" type="0-1" xtargets=";1:101"/>
+<link status="man" type="0-1" xtargets=";1:102"/>
+<link status="man" type="0-1" xtargets=";1:103"/>
+<link status="man" type="0-1" xtargets=";1:104"/>
+<link status="man" type="0-1" xtargets=";1:105"/>
+<link status="man" type="0-1" xtargets=";1:106"/>
+<link status="man" type="0-1" xtargets=";1:107"/>
+<link status="man" type="0-1" xtargets=";1:108"/>
+<link status="man" type="0-1" xtargets=";1:109"/>
+<link status="man" type="0-1" xtargets=";1:110"/>
+<link status="man" type="0-1" xtargets=";1:111"/>
+<link status="man" type="0-1" xtargets=";1:112"/>
+<link status="man" type="0-1" xtargets=";1:113"/>
+<link status="man" type="0-1" xtargets=";1:114"/>
+<link status="man" type="0-1" xtargets=";1:115"/>
+<link status="man" type="0-1" xtargets=";1:116"/>
+<link status="man" type="2-1" xtargets="1:97 1:98;1:117"/>
+<link status="man" type="1-3" xtargets="1:99;1:118 1:119 1:120"/>
+<link status="man" type="1-1" xtargets="1:100;1:121"/>
+<link status="man" type="0-1" xtargets=";1:122"/>
+<link status="man" type="1-1" xtargets="1:101;1:123"/>
+<link status="man" type="1-1" xtargets="1:102;1:124"/>
+<link status="man" type="1-1" xtargets="1:103;1:125"/>
+<link status="man" type="1-1" xtargets="1:104;1:126"/>
+<link status="man" type="1-1" xtargets="1:105;1:127"/>
+<link status="man" type="1-1" xtargets="1:106;1:128"/>
+<link status="man" type="1-1" xtargets="1:107;1:129"/>
+<link status="man" type="1-1" xtargets="1:108;1:130"/>
+<link status="man" type="1-1" xtargets="1:109;1:131"/>
+<link status="man" type="1-2" xtargets="1:110;1:132 1:133"/>
+<link status="man" type="1-1" xtargets="1:111;1:134"/>
+<link status="man" type="0-1" xtargets=";1:135"/>
+<link status="man" type="0-1" xtargets=";1:136"/>
+<link status="man" type="2-1" xtargets="1:112 1:113;1:137"/>
+<link status="man" type="1-1" xtargets="1:114;1:138"/>
+<link status="man" type="1-1" xtargets="1:115;1:139"/>
+<link status="man" type="2-1" xtargets="1:116 1:117;1:140"/>
+<link status="man" type="1-1" xtargets="1:118;1:141"/>
+<link status="man" type="1-1" xtargets="1:119;1:142"/>
+<link status="man" type="2-1" xtargets="1:120 1:121;1:143"/>
+<link status="man" type="0-1" xtargets=";1:144"/>
+<link status="man" type="0-1" xtargets=";1:145"/>
+<link status="man" type="0-1" xtargets=";1:146"/>
+<link status="man" type="1-1" xtargets="1:122;1:147"/>
+<link status="man" type="1-1" xtargets="1:123;1:148"/>
+<link status="man" type="1-1" xtargets="1:124;1:149"/>
+<link status="man" type="1-1" xtargets="1:125;1:150"/>
+<link status="man" type="1-1" xtargets="1:126;1:151"/>
+<link status="man" type="0-1" xtargets=";1:152"/>
+<link status="man" type="2-1" xtargets="1:127 1:128;1:153"/>
+<link status="man" type="1-1" xtargets="1:129;1:154"/>
+<link status="man" type="1-1" xtargets="1:130;1:155"/>
+<link status="man" type="1-1" xtargets="1:131;1:156"/>
+<link status="man" type="1-1" xtargets="1:132;1:157"/>
+<link status="man" type="1-1" xtargets="1:133;1:158"/>
+<link status="man" type="1-2" xtargets="1:134;1:159 1:160"/>
+<link status="man" type="2-1" xtargets="1:135 1:136;1:161"/>
+<link status="man" type="1-2" xtargets="1:137;1:162 1:163"/>
+<link status="man" type="0-1" xtargets=";1:164"/>
+<link status="man" type="0-1" xtargets=";1:165"/>
+<link status="man" type="1-1" xtargets="1:138;1:166"/>
+</linkGrp>
