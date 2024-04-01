@@ -7,7 +7,7 @@ Currently, the repository gives access to:
 
 **References**
 
-A paper is under review. Stay tuned :)
+Rachele Sprugnoli and Marco Sartor. That branch of the Lake of Como...: Developing a New Resource for the Analysis of I Promessi Sposi and its Historical Translations. Proceedings of the 9th Italian Conference on Computational Linguistics, 2023. [PDF](https://ceur-ws.org/Vol-3596/paper48.pdf)
 
 **Acknowledgments**
 
